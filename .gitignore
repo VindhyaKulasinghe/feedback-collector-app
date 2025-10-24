@@ -20,8 +20,8 @@ build/
 .env.production.local
 
 # Frontend/backend node_modules and build artifacts
-frontend/.next
-frontend/node_modules/
+Front-end/.next
+Front-end/node_modules/
 backend/node_modules/
 
 # Editor directories and OS files
