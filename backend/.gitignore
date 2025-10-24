@@ -1,4 +1,3 @@
 node_modules/
-# Optional: ignore local env files and logs
 .env
-npm-debug.log*
+.DS_Store
